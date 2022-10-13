@@ -9,6 +9,11 @@ body{
     font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
+.form .HomeButton {
+    background-color:transparent;
+    color: transparent;
+}
+
 .img-logo{
     height: 94px;
     margin-left: 45px;
