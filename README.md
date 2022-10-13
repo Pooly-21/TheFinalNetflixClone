@@ -4,6 +4,7 @@ The button from sign was done seperately, figured out last minute how to make it
 {
 Also has to do with the sign in,
 which was supposed to redirect into the home page.
+sign has simple form redirect
 }
 
 I had two repos and fusion summoned it, hence why the one upload to github.
