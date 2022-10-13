@@ -7,6 +7,8 @@ which was supposed to redirect into the home page.
 sign has simple form redirect
 }
 
-I had two repos and fusion summoned it, hence why the one upload to github.
+<!--
+I HAD TWO REPOS AND FUSION SUMMONED THEM, HENCE WHY I UPLOADED TODAY ONLY TO GITHUB.
+-->
 
 I could not figure out the video popup (play and pause) and the watchlist broke so i left it out.
