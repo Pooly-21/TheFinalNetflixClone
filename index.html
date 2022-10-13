@@ -16,8 +16,10 @@
         <img class="nav_logo" src="./assets/logo.svg" alt="">
       </div>
         <div class="nav__right">
-        <button><img src="./assets/luffy.png" class="nav_avatar" alt="">
-        </button>
+            <form input type="button" value="landing page" onclick="Redirect();">
+                <!-- <input type="button" value="landing page" onclick="Redirect();"/> -->
+                <img src="./assets/luffy.png" class="nav_avatar" alt="">
+            </form>
         </div> 
     </div>
 
@@ -48,6 +50,13 @@
         var nav = document.querySelector(".nav");
         nav.classList.toggle("active", window.scrollY > 0);
       }) 
+    </script>
+
+    <script>
+        function Redirect()
+        {
+            window.location = "http://127.0.0.1:5501/login/indexx.html"
+        }
     </script>
   </body>
 </html>
