@@ -1,9 +1,9 @@
 # TheFinalNetflixClone
  
-button from sign was done seperately, figured out last minute how to make it actually work by redirecting i mean.
+The button from sign was done seperately, figured out last minute how to make it actually work. so i made an icon on the home page into the sign in.
 {
-also has to do with the sign in,
-which was supposed to go into the home page.
+Also has to do with the sign in,
+which was supposed to redirect into the home page.
 }
 
 I had two repos and fusion summoned it, hence why the one upload to github.
